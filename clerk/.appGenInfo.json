@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Wed Feb 18 2026 21:07:57 GMT+0100 (Central European Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://d26p.n124.ucc.md/sap/opu/odata/sap/ZN2_CLERK_SRV_O2",
+    "appName": "clerk",
+    "appTitle": "App Title",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "clerk",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.108.39",
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.1",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ZN2_C_CLERK_METER"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
